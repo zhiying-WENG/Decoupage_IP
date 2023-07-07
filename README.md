@@ -12,7 +12,6 @@ maximun est 50 équipements dans 4 groups --> 2^6 = 64 >= 50+2, 32-6 = 26
 | Le Pôle Administratif | 172.16.1.128/26 | 172.16.1.191      |   172.16.1.129     |  172.16.1.190      |
 | Le Pôle Technicien | 172.16.1.192/26 | 172.16.1.255      |   172.16.1.193     |  172.16.1.254      |  
 _ _ _   
-<br></br>
 ### **Asymétrique:**  
   
 Le Pôle informatique (6 bureaux, environ 50 équipements au total) --> 2^6 = 64 >= 50+2, 32-6 = 26  
